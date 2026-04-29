@@ -20,6 +20,7 @@ A practical, code-first guide to building autonomous and semi-autonomous AI agen
 - `ch04_handoffs/`: The support triage multi-agent handoff router.
 - `ch05_state_graphs/`: LangGraph retry persistence and human-in-the-loop Code Review mechanism.
 - `ch06_multi_agent/`: CrewAI pipelines and adversarial debate protocols.
+- `ch07_model_portability/`: LiteLLM fallback routing, Ollama local agents, and DSPy compiled pipelines.
 - `shared/`: The global config arrays and declarative skill models.
 
 ## 🛠️ Prerequisites
